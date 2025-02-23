@@ -1,0 +1,8 @@
+how would i make a sum of between all value of elements in an array
+
+1. identify the min and max values
+2. find every integer between the min and max values (use a for loop for this)
+3. add all the integers between the min and max value ( need to have accumaltor and elements and reducer)
+4. remove negative
+5. remove non integer
+6. revmove non-number parameters like strings and arrays
